@@ -21,6 +21,14 @@
 
 </div>
 
+## Fork status, safety and privacy
+
+This repository is a public fork of [`deafdudecomputers/PalworldSaveTools`](https://github.com/deafdudecomputers/PalworldSaveTools). The upstream project and its release page remain the authority for supported downloads unless this fork explicitly publishes and documents its own release. A commit in this fork does not represent a hosted service or an upstream release.
+
+Save editing is inherently destructive. Work on a copy, keep the automatic backup, verify the result before replacing a server save and stop the game or server before writing. Save files can contain player, guild and server identifiers; do not attach real saves to public issues without the informed consent of affected users and a deliberate privacy review.
+
+Local installation and validation commands below operate on the user's machine. This fork does not document private hosting, deployment topology or operator credentials. The code remains covered by the upstream MIT license in [license](license).
+
 <div align="center">
 
 ## Overview
